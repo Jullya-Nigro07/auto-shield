@@ -1,1 +1,1 @@
-# AutoShield - Microsserviços para Gestão de Seguros Automotivos
+Microsserviços para Gestão de Seguros Automotivos
